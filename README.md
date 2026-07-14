@@ -2,16 +2,18 @@
 
 Análisis de ventas de un e-commerce (año 2024, 3.000 transacciones), desarrollado en 4 etapas: preparación e integración de datos, análisis exploratorio, dashboards interactivos en Looker Studio, y storytelling.
 
+## Dashboard en vivo
+
+**[Ver el dashboard interactivo en Looker Studio](https://datastudio.google.com/s/qcAHc4dkf3Y)**
+
 ## Contenido
 
-- **`consigna.docx`** — consigna original del trabajo práctico.
 - **`Investigación.docx`** — informe completo con el desarrollo de las 4 etapas (limpieza, integración, análisis exploratorio, dashboard, interactividad, comparación de gráficos).
 - **`Datasets_originales (1).xlsx`**, **`Ventas (2).xlsx`** — datasets crudos de partida.
 - **`ventas_integrado_ar.xlsx`** — dataset integrado y limpio (Ventas + Productos/Categorías + Clientes), usado como fuente del dashboard.
 - **`ventas fast food.xlsx`**, **`Chocolate Sales.xlsx`** — datasets de ventas de otros orígenes (Kaggle), usados para la comparación de gráficos y visualización efectiva (Etapa 3).
-- **`Data_Studio.pdf`**, **`Informe_DataStudio.pdf`**, **`Informe (1).pdf`** — exportaciones del dashboard de Looker Studio.
-- **`Storytelling_Etapa4.html`**, **`Storytelling — Ventas 2024.pdf`** — narrativa visual de la Etapa 4 (storytelling de los hallazgos del año).
-- **`CapturaData.png`** — captura de referencia del proceso.
+- **`Informe (1).pdf`** — exportación estática del dashboard de Looker Studio.
+- **`Storytelling_Etapa4.html`** — narrativa visual de la Etapa 4 (storytelling de los hallazgos del año).
 
 ## Resumen de hallazgos
 
