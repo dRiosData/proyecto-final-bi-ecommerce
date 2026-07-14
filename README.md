@@ -9,7 +9,7 @@ Análisis de ventas de un e-commerce (año 2024, 3.000 transacciones), desarroll
 ## Contenido
 
 - **`Investigación.docx`** — informe completo con el desarrollo de las 4 etapas (limpieza, integración, análisis exploratorio, dashboard, interactividad, comparación de gráficos).
-- **`Datasets_originales (1).xlsx`**, **`Ventas (2).xlsx`** — datasets crudos de partida.
+- **`Datasets_originales (1).xlsx`** — dataset crudo de partida.
 - **`ventas_integrado_ar.xlsx`** — dataset integrado y limpio (Ventas + Productos/Categorías + Clientes), usado como fuente del dashboard.
 - **`ventas fast food.xlsx`**, **`Chocolate Sales.xlsx`** — datasets de ventas de otros orígenes (Kaggle), usados para la comparación de gráficos y visualización efectiva (Etapa 3).
 - **`Informe (1).pdf`** — exportación estática del dashboard de Looker Studio.
